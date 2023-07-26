@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.icrm",
+    "package_name": "xyz.linkupapp",
     "sha256_cert_fingerprints":
     ["D8:C9:DB:F0:43:E2:44:28:A0:4E:69:D5:1D:E8:C1:D0:25:F4:7D:30:DD:29:12:9F:53:C2:83:82:50:9C:8D:F7"]
   }

@@ -1,1 +1,1 @@
-Demo PWA app.
+Set up app links for Android
