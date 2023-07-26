@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "xyz.linkupapp",
+    "package_name": "com.example.deeplink_cookbook",
     "sha256_cert_fingerprints":
     ["BB:2D:D3:F5:6F:6F:CC:31:0C:02:39:70:B4:4C:1E:CC:D3:FB:40:B3:13:73:40:87:FA:00:FA:C3:7A:F8:35:31"]
   }
